@@ -1,0 +1,9 @@
+django==1.11.13
+redis
+imageio
+django-bootstrap3
+matplotlib
+stringcase
+celery
+hdmedians
+scipy
